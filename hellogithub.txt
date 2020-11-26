@@ -1,9 +1,2 @@
-hello world!!
-
-haha
-
-hehe
-
-123456
-
-789
+username=zhangsan
+password=123456
